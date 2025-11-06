@@ -1,7 +1,7 @@
 {
     "$schema": "https://ui.shadcn.com/schema/registry.json",
     "name": "angelo",
-    "homepage": "https://dilibe.netlify.com/angelo-registry",
+    "homepage": "https://dilibe-registry.netlify.app/",
     "items": [
         {
             "name": "floating-header",
