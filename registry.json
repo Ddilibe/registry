@@ -1,0 +1,22 @@
+{
+    "$schema": "https://ui.shadcn.com/schema/registry.json",
+    "name": "angelo",
+    "homepage": "https://dilibe.netlify.com/angelo-registry",
+    "items": [
+        {
+            "name": "floating-header",
+            "type": "registry:block",
+            "title": "Floating Header",
+            "description": "Mobiele responsive header that is floating",
+            "files": [
+                {
+                    "path": "src/registry/headers/floating-header/floating-header.tsx",
+                    "type": "registry:component"
+                }
+            ],
+            "dependencies": [
+                "lucide-react"
+            ]
+        }
+    ]
+}
